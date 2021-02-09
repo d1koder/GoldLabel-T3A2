@@ -64,7 +64,9 @@
 
 ### 	Production Side
 
-​		https://drive.google.com/file/d/12unvZKPoj56Oj_VH89ppqbh1WTJPuPoE/view?usp=sharing
+​		https://drive.google.com/file/d/1kQm2kghjjNt60fZGjlPuoqnQ3BwqZu-z/view?usp=sharing
+
+​		
 
 ------
 
@@ -149,7 +151,7 @@
 | admin        | admin can add property details                 | pass    |                                                              |
 | admin        | admin can sign up                              | pass    |                                                              |
 | admin        | admin can log in                               | pass    |                                                              |
-| admin        | admin can upload and view photos of properties | fail    | image uploaded but cannot fetch                              |
+| admin        | admin can upload and view photos of properties | pass    |                                                              |
 
 ### 8.2.1 |	Production Enviroment - Mobile/ Tablet
 
@@ -176,7 +178,7 @@
 | admin        | admin can add property details                 | pass    |                                                              |
 | admin        | admin can sign up                              | pass    |                                                              |
 | admin        | admin can log in                               | pass    |                                                              |
-| admin        | admin can upload and view photos of properties | fail    | image uploaded but cannot fetch                              |
+| admin        | admin can upload and view photos of properties | pass    |                                                              |
 
 ## R9 |	Utilises a Formal Testing Framework
 
@@ -200,7 +202,7 @@
 
 ​		https://github.com/jacinyan/gl-frontend
 
-​		https://github.com/d1koder/gl-backend
+​		https://github.com/jacinyan/gl-backend
 
 ### 	Forked 
 
